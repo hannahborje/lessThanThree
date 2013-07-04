@@ -1,0 +1,19 @@
+<3>
+
+
+  a = NOT TRUE;
+  b = 3;
+  c = "three";
+  d = {4};
+
+  e = (3+3) < (4+4);
+
+
+
+</3>
+<!-- Testa listor -->
+  <!--  list = {1,2,{1,2}}; -->
+  <!--  sub = list[2][1]; -->
+
+<!-- Testa expressions och spara i en expr-fil -->
+
